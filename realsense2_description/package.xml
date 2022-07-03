@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package format="2">
+<package format="3">
   <name>realsense2_description</name>
   <version>2.3.2</version>
   <description>RealSense Camera description package for Intel 3D D400 cameras</description>
